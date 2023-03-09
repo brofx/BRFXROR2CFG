@@ -1,5 +1,5 @@
 ## BRFXROR2CFG
-# Import Code:
+# Import Code
 
 `0186c899-3202-bc84-5049-70804a44e568`
 
