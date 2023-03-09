@@ -1,7 +1,7 @@
 # BRFXROR2CFG
 ## Import Code
 
-`0186c8ae-b2a7-c23b-7676-4e96564157f1`
+`0186c8b0-eaf2-92e1-d3c4-47f575e45c27`
 
 1. Download and install [R2Modman](https://github.com/ebkr/r2modmanPlus/releases)
 2. Open R2modman and choose RoR2 (tip: favorite it ⭐)
@@ -16,7 +16,7 @@ These should be done automatically by importing the code
 | Mod | Config | Old | New |
 | --- | ------ | --- | --- |
 | ShareSuite | RandomizeSharedPickups | false | true |
-
+| BetterDrones | RoR1 Drone Movement | true | false |
 
 ## Mod List
 
