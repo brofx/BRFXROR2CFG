@@ -3,6 +3,12 @@
 
 `0186c899-3202-bc84-5049-70804a44e568`
 
+1. Download and install [R2Modman](https://github.com/ebkr/r2modmanPlus/releases)
+2. Open R2modman and choose RoR2 (tip: favorite it ⭐)
+3. Choose Steam / EGS
+4. Press the "Import / Update" button
+5. Use the code to either create a new profile or update an existing one
+
 # Config
 
 TBD
