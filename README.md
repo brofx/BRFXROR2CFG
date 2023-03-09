@@ -1,7 +1,7 @@
 # BRFXROR2CFG
 ## Import Code
 
-`0186c899-3202-bc84-5049-70804a44e568`
+`0186c8ae-b2a7-c23b-7676-4e96564157f1`
 
 1. Download and install [R2Modman](https://github.com/ebkr/r2modmanPlus/releases)
 2. Open R2modman and choose RoR2 (tip: favorite it ⭐)
@@ -9,9 +9,14 @@
 4. Press the "Import / Update" button
 5. Use the code to either create a new profile or update an existing one
 
-## Config
+## Config Changes 
 
-TBD
+These should be done automatically by importing the code
+
+| Mod | Config | Old | New |
+| --- | ------ | --- | --- |
+| ShareSuite | RandomizeSharedPickups | false | true |
+
 
 ## Mod List
 
@@ -25,7 +30,6 @@ TBD
 | ItemExchangeNotifier | https://thunderstore.io/package/MagnusMagnuson/ItemExchangeNotifier                                                                  |                                                                                                                        |
 | PauseInMultiplayer   | https://thunderstore.io/package/Constant-ine/PauseInMultiplayer                                                                      |                                                                                                                        |
 | ProperSave           | [https://thunderstore.io/package/KingEnderBrine/ProperSave](https://thunderstore.io/package/KingEnderBrine/ProperSave)               | https://github.com/KingEnderBrine/-RoR2-ProperSave                                                                     |
-| Risk_Of_Options      | [https://thunderstore.io/package/Rune580/Risk_Of_Options](https://thunderstore.io/package/Rune580/Risk_Of_Options)                   | https://github.com/Rune580/RiskOfOptions                                                                               |
 | ScrollableLobbyUI    | [https://thunderstore.io/package/KingEnderBrine/ScrollableLobbyUI](https://thunderstore.io/package/KingEnderBrine/ScrollableLobbyUI) | [https://github.com/KingEnderBrine/-RoR2-ScrollableLobbyUI](https://github.com/KingEnderBrine/-RoR2-ScrollableLobbyUI) |
 | ShareSuite           | https://thunderstore.io/package/FunkFrog-and-Sipondo/ShareSuite                                                                      | https://github.com/FunkFrog/RoR2SharedItems                                                                            |
 | ShowDeathCause       | https://thunderstore.io/package/NotTsunami/ShowDeathCause                                                                            | https://github.com/NotTsunami/ShowDeathCause                                                                           |
