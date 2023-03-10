@@ -1,7 +1,7 @@
 # BRFXROR2CFG
 ## Import Code
 
-`0186c906-7bba-6d30-5f06-9e37491ea7ac`
+`0186c937-4ce0-97a9-f60a-8412ce725268`
 
 1. Download and install [R2Modman](https://github.com/ebkr/r2modmanPlus/releases)
 2. Open R2modman and choose RoR2 (tip: favorite it ⭐)
