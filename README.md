@@ -1,7 +1,7 @@
 # BRFXROR2CFG
 ## Import Code
 
-`0186c996-ee85-5b6b-9329-82c311d541fe`
+`0186d174-0e4b-64f0-aa05-4b6c281b2287`
 
 1. Download and install [R2Modman](https://github.com/ebkr/r2modmanPlus/releases)
 2. Open R2modman and choose RoR2 (tip: favorite it ⭐)
@@ -27,7 +27,6 @@ These should be done automatically by importing the code
 | DropInMultiplayer    | https://thunderstore.io/package/niwith/DropinMultiplayer                                                                             | https://github.com/niwith/DropInMultiplayer                                                                            |
 | EmptyChestsBeGone    | https://thunderstore.io/package/TheRealElysium/EmptyChestsBeGone                                                                     |                                                                                                                        |
 | ItemExchangeNotifier | https://thunderstore.io/package/MagnusMagnuson/ItemExchangeNotifier                                                                  |                                                                                                                        |
-| Minimap Mod | https://thunderstore.io/package/DekuDesu/MiniMapMod/ | |
 | PauseInMultiplayer   | https://thunderstore.io/package/Constant-ine/PauseInMultiplayer                                                                      |                                                                                                                        |
 | ProperSave           | [https://thunderstore.io/package/KingEnderBrine/ProperSave](https://thunderstore.io/package/KingEnderBrine/ProperSave)               | https://github.com/KingEnderBrine/-RoR2-ProperSave                                                                     |
 | ScrollableLobbyUI    | [https://thunderstore.io/package/KingEnderBrine/ScrollableLobbyUI](https://thunderstore.io/package/KingEnderBrine/ScrollableLobbyUI) | [https://github.com/KingEnderBrine/-RoR2-ScrollableLobbyUI](https://github.com/KingEnderBrine/-RoR2-ScrollableLobbyUI) |
@@ -37,3 +36,9 @@ These should be done automatically by importing the code
 | SillyItems           | https://thunderstore.io/package/TheTimesweeper/SillyItems                                                                            |                                                                                                                        |
 | SkipIntro            | [https://thunderstore.io/package/Bubbet/SkipIntro](https://thunderstore.io/package/Bubbet/SkipIntro)                                 | https://github.com/Bubbet/Risk-Of-Rain-Mods/tree/master/SkipIntroCutscene                                              |
 | TooManyFriends       | https://thunderstore.io/package/wildbook/TooManyFriends                                                                              | https://github.com/wildbook/R2Mods/tree/master/TooManyFriends                                                          |
+| Trunks | https://thunderstore.io/package/kinggrinyov/Trunks/ | |
+| Goku | https://thunderstore.io/package/kinggrinyov/Goku/ | |
+| Vegeta | https://thunderstore.io/package/kinggrinyov/Vegeta/ | |
+| RTAutoSprintEx | https://thunderstore.io/package/JohnEdwa/RTAutoSprintEx/ | |
+| MobileTurretBuff | https://thunderstore.io/package/Moffein/MobileTurretBuff/ | |
+| BetterGameplay | https://thunderstore.io/package/XoXFaby/BetterGameplay/ | |
